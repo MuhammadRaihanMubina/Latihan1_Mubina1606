@@ -12,7 +12,7 @@ import Koneksi.Koneksi;
 
 /**
  *
- * @author Asuss
+ * @author Mubina
  */
 public class Barang extends javax.swing.JFrame {
     private Connection conn = new Koneksi().connect();
